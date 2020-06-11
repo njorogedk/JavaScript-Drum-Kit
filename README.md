@@ -1,7 +1,7 @@
 # JavaScript-Drum-Kit
 ## JavaScript Drum Kit #javaScript30 
 
-It is a simple project which does the following:
+A JavaScript project which does the following:
 
 Attach a sound to a keyboard key using keyCodes
 Play the sound when the key is pressed.
